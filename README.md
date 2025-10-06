@@ -1,6 +1,5 @@
 # ♊ Multi-Agent Code Explainer & Optimizer
 
-![Project Banner](assets/banner.png)
 
 An **AI-driven multi-step workflow** that automatically **explains** or **optimizes** code using **LangGraph** and **Gemini (Google Generative AI)**.  
 This project demonstrates how **multi-agent systems** can dynamically route tasks — first analyzing user intent, then executing the appropriate agent to deliver results.
@@ -49,11 +48,3 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 ### 5️⃣ Run the App
 streamlit run app.py
-
-
-## 🎬 Demo Video
-
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
