@@ -35,9 +35,13 @@ git clone https://github.com/yourusername/multi-agent-code-explainer-optimizer.g
 cd multi-agent-code-explainer-optimizer
 
 ### 2️⃣ Create a Virtual Environment
+```bash
 python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+# Linux / Mac
+source venv/bin/activate
+# Windows
+venv\Scripts\activate
+
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
