@@ -32,23 +32,28 @@ This project demonstrates how **multi-agent systems** can dynamically route task
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/multi-agent-code-explainer-optimizer.git
-cd multi-agent-code-explainer-optimizer
-
-### 2️⃣ Create a Virtual Environment
+cd multi-agent-code-explainer-optimize
+```
+### 2. Create a Virtual Environment
 ```bash
+# Create venv
 python -m venv venv
+
+# Activate venv
 # Linux / Mac
 source venv/bin/activate
 # Windows
 venv\Scripts\activate
-
-
-### 3️⃣ Install Dependencies
+```
+3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-
-### 4️⃣ Setup Environment Variable
-Copy `.env.example` to `.env` and add your Gemini API key:
+```
+4️⃣ Setup Environment Variables
+```
 GOOGLE_API_KEY=your_google_gemini_api_key_here
-
-### 5️⃣ Run the App
+```
+5️⃣ Run the App
+```
 streamlit run app.py
+
