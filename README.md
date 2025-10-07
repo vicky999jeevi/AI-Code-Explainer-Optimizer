@@ -56,4 +56,9 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 5️⃣ Run the App
 ```
 streamlit run app.py
+```
+## 🎥 Project Demo
+```
+[![Watch the video]
+(https://img.shields.io/badge/▶️%20Watch%20Demo-FF0000?style=for-the-badge)](https://drive.google.com/file/d/1DFpgUT_9_BfHUOYKzKfSp-r-_Dy3uB7n/view?usp=drive_link)
 
